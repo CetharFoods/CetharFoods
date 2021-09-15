@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @CetharFoods
 - 👀 I’m interested in ERP Applications
 - 🌱 I’m currently learning .Net, Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @CetharFoods
 
 <!---
